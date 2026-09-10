@@ -236,3 +236,6 @@ This repository serves as the official landing page for Media Player Codec Pack.
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://mediaplayercodecpack.com)
 
 **Get the most recent version of Media Player Codec Pack today!**
+
+---
+**Last updated:** 2026-09-10 09:35:10 UTC
