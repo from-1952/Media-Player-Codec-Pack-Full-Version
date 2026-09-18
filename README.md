@@ -238,4 +238,4 @@ This repository serves as the official landing page for Media Player Codec Pack.
 **Get the most recent version of Media Player Codec Pack today!**
 
 ---
-**Last updated:** 2026-09-18 14:49:01 UTC
+**Last updated:** 2026-09-18 18:08:36 UTC
